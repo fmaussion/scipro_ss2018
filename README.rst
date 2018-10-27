@@ -5,9 +5,7 @@
 Scientific Programming (deprecated)
 ===================================
 
-Lectures notes of the scientific programming course at the University of Innsbruck.
-
-"Lecture notes of the master lecture **given in the summer term 2018**
+"Lecture notes of the master lecture scientific programming **given in the summer term 2018** at the University of Innsbruck.
 
 **These lecture notes are kept for documentation and historical purposes only! For the latest version visit:**
    
